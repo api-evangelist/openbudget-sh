@@ -1,4 +1,4 @@
-# openbudget-sh
+# OpenBudget
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,99 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-openbudget-sh is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://openbudget.sh/
+OpenBudget connects your bank accounts to AI assistants via Plaid, offering real‑time financial data in spreadsheets and chat. The service provides a single subscription plan, no ads, and guarantees data never leaves the bank. It supports Claude, ChatGPT, Google Sheets, Excel, and over 10,000 US banks, aiming to make personal finance answerable through AI.
+
+**Areas:** Finance · AI · PersonalFinance · Banking · Automation
+
+## OpenBudget on APIs.io
+
+Everything profiled for OpenBudget is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/openbudget-sh/](https://apis.io/providers/openbudget-sh/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [OpenBudget API](https://apis.io/apis/openbudget-sh/openbudget-api/) — API for OpenBudget financial data integration
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OpenBudget Domain Security](https://apis.io/security/openbudget-sh/openbudget-sh-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [OpenBudget Plans Pricing](https://apis.io/plans/openbudget-sh/openbudget-sh-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.openbudget.sh/)
+- [Documentation](https://www.openbudget.sh/guides)
+- [Pricing](https://www.openbudget.sh/pricing)
+- [Support](https://www.openbudget.sh/contact)
+- [Blog](https://www.openbudget.sh/blog)
+- [Security](https://www.openbudget.sh/security)
+- [Terms of service](https://www.openbudget.sh/terms)
+- [Privacy policy](https://www.openbudget.sh/privacy)
+
+## API Evangelist rating
+
+**Kin Score 21.1** — emerging · rubric 0.27.0 · scored 2026-11-20
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 50.5 |
+
+**Agent readiness 21.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 14.8** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/openbudget-sh/](https://apis.io/providers/openbudget-sh/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OpenBudget: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/openbudget-sh/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
